@@ -1,0 +1,3 @@
+[submodule "a-submodule"]
+	path = a-submodule
+	url = https://github.com/waltermoreira/a-submodule
